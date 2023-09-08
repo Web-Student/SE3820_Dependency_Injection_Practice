@@ -1,0 +1,14 @@
+C:\Users\rache\Source\Repos\SE3820_Dependency_Injection_Practice\DependencyInjectionPractice\bin\Debug\net7.0\DependencyInjectionPractice.exe
+C:\Users\rache\Source\Repos\SE3820_Dependency_Injection_Practice\DependencyInjectionPractice\bin\Debug\net7.0\DependencyInjectionPractice.deps.json
+C:\Users\rache\Source\Repos\SE3820_Dependency_Injection_Practice\DependencyInjectionPractice\bin\Debug\net7.0\DependencyInjectionPractice.runtimeconfig.json
+C:\Users\rache\Source\Repos\SE3820_Dependency_Injection_Practice\DependencyInjectionPractice\bin\Debug\net7.0\DependencyInjectionPractice.dll
+C:\Users\rache\Source\Repos\SE3820_Dependency_Injection_Practice\DependencyInjectionPractice\bin\Debug\net7.0\DependencyInjectionPractice.pdb
+C:\Users\rache\Source\Repos\SE3820_Dependency_Injection_Practice\DependencyInjectionPractice\obj\Debug\net7.0\DependencyInjectionPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rache\Source\Repos\SE3820_Dependency_Injection_Practice\DependencyInjectionPractice\obj\Debug\net7.0\DependencyInjectionPractice.AssemblyInfoInputs.cache
+C:\Users\rache\Source\Repos\SE3820_Dependency_Injection_Practice\DependencyInjectionPractice\obj\Debug\net7.0\DependencyInjectionPractice.AssemblyInfo.cs
+C:\Users\rache\Source\Repos\SE3820_Dependency_Injection_Practice\DependencyInjectionPractice\obj\Debug\net7.0\DependencyInjectionPractice.csproj.CoreCompileInputs.cache
+C:\Users\rache\Source\Repos\SE3820_Dependency_Injection_Practice\DependencyInjectionPractice\obj\Debug\net7.0\DependencyInjectionPractice.dll
+C:\Users\rache\Source\Repos\SE3820_Dependency_Injection_Practice\DependencyInjectionPractice\obj\Debug\net7.0\refint\DependencyInjectionPractice.dll
+C:\Users\rache\Source\Repos\SE3820_Dependency_Injection_Practice\DependencyInjectionPractice\obj\Debug\net7.0\DependencyInjectionPractice.pdb
+C:\Users\rache\Source\Repos\SE3820_Dependency_Injection_Practice\DependencyInjectionPractice\obj\Debug\net7.0\DependencyInjectionPractice.genruntimeconfig.cache
+C:\Users\rache\Source\Repos\SE3820_Dependency_Injection_Practice\DependencyInjectionPractice\obj\Debug\net7.0\ref\DependencyInjectionPractice.dll
